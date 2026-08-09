@@ -1,4 +1,5 @@
-Project 1 - Supply chain dashboard
+PROJECT 1 - SUPPLY CHAIN DASHBOARD
+
 The objective of this project was to transform raw supply chain data into an interactive business intelligence dashboard that helps stakeholders quickly identify revenue drivers, profitable categories, customer behavior, and operational inefficiencies.
 The dataset contains 180K+ supply chain records covering orders, customers, products, markets, shipping, sales, discounts, and profitability.
 
@@ -106,8 +107,8 @@ Logistics Analysis
 Interactive Dashboard Design
 Business Intelligence Reporting
 
+PROJECT 2 -  EDA DASHBOARD
 
-PROJECT 2 -  EDA Dashboard
 This project presents an interactive global sales performance dashboard designed to analyze revenue, profit, customer behavior, and market performance across multiple regions and product categories. The dashboard enables stakeholders to monitor KPIs, identify top-performing markets and products, and uncover profitability and customer retention insights.
 
 🗂 Dataset Details
